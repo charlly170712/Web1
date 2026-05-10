@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>Formulario</title>
+        
+        <link rel="stylesheet" href="/static/formu.css">
+
+    </head>
+    <body>
+        <h1>Formulario</h1>
+        <p class="p1">Esta pagina habla sobre la dependencia tecnologica, 
+            es un tema sensible para cierto tipo de personas, por eso es necesario
+            el formulario y que mantenga discrecion, por favor. Gracias.</p>
+        <p class="p2">Aqui trataremos temas como la adiccion, pero siempres dirijidos a 
+            a lo tecnologico. Un claro ejemplo de lo que se tratara serian los otakus, personas 
+            adultas que no salen de sus habitaciones y son mantenidas por sus padres. Luego 
+            profundisaremos mas sobre el tema, pero eso es mas o menos lo que vamos a tratar.
+        </p>
+        <form action="">
+            <input type="text" placeholder="UserName">
+            <input type="password" placeholder="Password">
+            <input type="date">
+            
+        </form>
+        <button></button>
+
+        <a href="/main">Submit</a>
+
+    </body>
+</html>
