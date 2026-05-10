@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>Nueva pagina</title>
+
+    </head>
+    <body>
+        <a href="/main">Regresar a la pagina anterior</a>
+        <a href="/nena">Ir a la proxima pagina</a>
+    </body>
+</html>
